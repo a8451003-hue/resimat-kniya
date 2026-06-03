@@ -1,10 +1,10 @@
 {
   "name": "רשימת קניות",
   "short_name": "קניות",
-  "id": "shopping-list-app",
+  "id": "/resimat-kniya/",
   "description": "אפליקציית רשימת קניות לסופר",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/resimat-kniya/",
+  "scope": "/resimat-kniya/",
   "display": "standalone",
   "background_color": "#f7f6f2",
   "theme_color": "#01696f",
@@ -12,12 +12,12 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "192.png",
+      "src": "/resimat-kniya/192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "512.png",
+      "src": "/resimat-kniya/512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
